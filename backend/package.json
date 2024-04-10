@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "MY FIRST MERN PROJECT",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index"
